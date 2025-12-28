@@ -11,7 +11,7 @@ Ein wissenschaftliche Arbeit zur systematischen Implementierung algebraischer St
 Eine wissenschaftliche Arbeit zum Strassen-Algorithmus für Matrizenmultiplikation. Das Projekt untersucht Laufzeitverbesserungen und bietet eine optimierte Implementierung mit verbesserter Komplexität gegenüber dem klassischen naiven Ansatz. Der Strassen-Algorithmus reduziert die asymptotische Komplexität von (n^2.807) mit 7 Matrixmultiplikationen auf nur 5 Matrixmultiplikationen und ermöglicht damit deutlich schnellere Berechnungen bei großen Matrizen.
 
 ### cmos
-Eine wissenschaftliche Arbeit im Bereich CMOS-Technologie (Complementary Metal-Oxide-Semiconductor), das sich mit dem optimalen EDF+ Scheduling-Algorithmus (Earliest Deadline First Plus) befasst. Das Projekt integriert Konzepte aus dem Software Engineering Prozess und untersucht die Optimierung von Hardware-Design und Scheduling-Verfahren.
+Eine wissenschaftliche Arbeit im Bereich CMOS-Technologie (Complementary Metal-Oxide-Semiconductor), die den optimalen EDF+ Scheduling-Algorithmus (Earliest Deadline First Plus) vorstellt. Das Projekt integriert Konzepte aus dem Software Engineering Prozess und untersucht die Optimierung von Hardware-Design und Scheduling-Verfahren.
 
 ## Hardware & Verifikation
 
