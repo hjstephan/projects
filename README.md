@@ -29,6 +29,14 @@ Ein spezialisiertes Tool zum Sortieren und Organisieren von PMD-Reports (Program
 ### slf4j-parser
 Ein Parser zum systematischen Analysieren und Verarbeiten von SLF4J-Logs (Simple Logging Facade for Java). Das Tool extrahiert strukturierte Informationen aus Java-Anwendungs-Logs und ermöglicht die Auswertung, Filterung und Analyse von Log-Daten für Debugging und Monitoring-Zwecke.
 
+## KI & Sprachverarbeitung
+
+### translator
+Eine Anwendung zur Sprachübersetzung, die leistungsfähige KI-Services integriert mit Speech-to-Text von Speechmatics oder Google, Translation von DeepL oder Google und Text-to-Speech von Azure. Die Anwendung ermöglicht in Echtzeit die mehrsprachige Spracherkennung, die Übersetzung und die Sprachausgabe.
+
+### microphone-openai
+Eine Anwendung zur Integration von Mikrofon-Funktionalität mit der OpenAI-API. Das Projekt ermöglicht in Echtzeit die Spracherkennung und Transkription.
+
 ## Bibel-Anwendungen
 
 ### bible-app
@@ -36,11 +44,3 @@ Eine Java Spring Boot-Anwendung, die umfassende Funktionen zum Durchsuchen, Lese
 
 ### pyble-app
 Eine Python-Anwendung, die als umfassende Bible App konzipiert ist. Die Anwendung bietet Funktionen zum Lesen, Durchsuchen und Studieren der Heiligen Schrift und verfügt über eine integrierte Konkordanz für tiefgreifende Bibelstudien und thematische Recherchen.
-
-## KI & Sprachverarbeitung
-
-### microphone-openai
-Eine Anwendung zur Integration von Mikrofon-Funktionalität mit OpenAI-APIs. Das Projekt ermöglicht Spracherkennung, Audio-Transkription und die Entwicklung von Voice-Assistenten durch die Kombination von Audio-Input mit modernen KI-Modellen.
-
-### translator
-Ein Übersetzungs-Tool, das leistungsfähige Übersetzungs-APIs integriert oder eigene Übersetzungsalgorithmen implementiert. Die Anwendung ermöglicht mehrsprachige Textverarbeitung und automatisierte Übersetzungen.
