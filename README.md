@@ -1,6 +1,6 @@
 # Projektübersicht
 
-Eine Sammlung von 11 verschiedenen Software-Projekten, die unterschiedliche Bereiche abdecken – von mathematischen Algorithmen über Hardware-Kommunikation bis hin zu Parsing-Tools und wissenschaftlichen Arbeiten.
+Diese Übersicht zeigt meine wissenschaftlichen Arbeiten und meine Software-Projekte, die von mathematischer Grundlagenforschung über Hardware-Verifikation und Finanzanalyse bis zu KI-gestützten Sprachanwendungen reichen. Die Projekte verbinden theoretische Algorithmen mit praktischer Implementierung und demonstrieren interdisziplinäres Arbeiten an der Schnittstelle von Informatik, Mathematik und angewandter Softwareentwicklung.
 
 ## Wissenschaftliche Arbeiten
 
