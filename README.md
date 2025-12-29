@@ -1,4 +1,4 @@
-# Projektübersicht
+# Übersicht
 
 In den letzten zwei Jahren habe ich diese wissenschaftlichen Arbeiten und Software-Projekte entwickelt, die von mathematischer Grundlagenforschung über Hardware-Verifikation und Finanzanalyse bis zu KI-gestützten Sprachanwendungen reichen. Meine Arbeiten und Projekte verbinden theoretische Algorithmen mit praktischer Implementierung und demonstrieren interdisziplinäres Arbeiten an der Schnittstelle von Informatik, Mathematik und Elektrotechnik.
 
@@ -8,7 +8,7 @@ In den letzten zwei Jahren habe ich diese wissenschaftlichen Arbeiten und Softwa
 Ein wissenschaftliche Arbeit zur systematischen Implementierung algebraischer Strukturen, Operationen und Algorithmen. Das Projekt befasst sich mit der theoretischen und praktischen Umsetzung mathematischer Konzepte aus der Algebra und zeigt wichtige grundlegende Aussagen.
 
 ### strassen
-Eine wissenschaftliche Arbeit zum Strassen-Algorithmus für Matrizenmultiplikation. Das Projekt untersucht Laufzeitverbesserungen und bietet eine optimierte Implementierung mit verbesserter Komplexität gegenüber dem klassischen naiven Ansatz. Der Strassen-Algorithmus reduziert die asymptotische Komplexität von (n^2.807) mit 7 Matrixmultiplikationen auf nur 5 Matrixmultiplikationen und ermöglicht damit deutlich schnellere Berechnungen bei großen Matrizen.
+Eine wissenschaftliche Arbeit zum Strassen-Algorithmus für Matrizenmultiplikation. Das Projekt untersucht Laufzeitverbesserungen und bietet eine optimierte Implementierung mit verbesserter Komplexität gegenüber dem klassischen naiven Ansatz. Der Strassen-Algorithmus reduziert die asymptotische Komplexität von (n^2.807) mit 7 Matrixmultiplikationen auf nur 5 Matrixmultiplikationen und ermöglicht damit deutlich schnellere Berechnungen bei großen Matrizen. Es wird gezeigt, dass die Komplexitätsklassen P und NP gleich sind und weitere Komplexitätsklassen werden eingeführt.
 
 ### cmos
 Eine wissenschaftliche Arbeit im Bereich CMOS-Technologie (Complementary Metal-Oxide-Semiconductor), die den optimalen EDF+ Scheduling-Algorithmus (Earliest Deadline First Plus) vorstellt. Das Projekt integriert Konzepte aus dem Software Engineering Prozess und untersucht die Optimierung von Hardware-Design und Scheduling-Verfahren.
