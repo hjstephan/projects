@@ -40,7 +40,7 @@ Eine Anwendung zur Integration von Mikrofon-Funktionalität mit der OpenAI-API. 
 ## Bibel-Anwendungen
 
 ### bible-app
-Eine Java Spring Boot-Anwendung, die umfassende Funktionen zum Durchsuchen, Lesen und Analysieren von Bibeltexten bereitstellt. Die moderne Web-Anwendung nutzt das Spring Framework für eine robuste und skalierbare Architektur.
+Eine Java Spring Boot-Anwendung, die umfassende Funktionen zum Durchsuchen, Lesen und Analysieren von Bibeltexten bereitstellt. Die moderne Web-Anwendung nutzt das Spring Framework für eine robuste und skalierbare Architektur. Hervorzuheben ist die Funktion zum effizienten Zählen der häufigsten Wörter in einem Kapitel, einem Buch oder in der gesamten Bibel. 
 
 ### pyble-app
-Eine Python-Anwendung, die als umfassende Bible App konzipiert ist. Die Anwendung bietet Funktionen zum Lesen, Durchsuchen und Studieren der Heiligen Schrift und verfügt über eine integrierte Konkordanz für tiefgreifende Bibelstudien und thematische Recherchen.
+Eine Python-Anwendung, die als umfassende Bible App konzipiert ist. Die Anwendung bietet Funktionen zum Lesen, Durchsuchen und Studieren der Heiligen Schrift und verfügt über eine integrierte Konkordanz für tiefgreifende Bibelstudien und thematische Recherchen. Mit Capacitor wird diese Anwendung als mobile App angeboten.
