@@ -21,7 +21,7 @@ Eine Python-basierte Implementierung der Universal Verification Methodology (UVM
 ## Finanz-, Code- & Log-Analyse
 
 ### consorsbank-parser
-Ein leistungsfähiger Java-basierter Parser zur automatisierten Extraktion und Verarbeitung von Finanzdaten der Consorsbank. Das Tool nutzt die Mindee API für das intelligente Parsen von Belegen und Dokumenten sowie die Berlin Group API (NextGenPSD2) für die standardisierte Schnittstelle zu Banken. Der Parser verarbeitet Kontobewegungen, Depotauszüge und andere Finanzdokumente und strukturiert diese für die Weiterverarbeitung.
+Ein leistungsfähiger Java-basierter Parser zur automatisierten Extraktion und Verarbeitung von Finanzdaten der Consorsbank. Das Tool nutzt die Mindee API für das intelligente Parsen von Belegen und Dokumenten sowie die Berlin Group API (NextGenPSD2) für die standardisierte Schnittstelle zu Banken. Der Parser verarbeitet die monatlichen Kontoauszüge der Consorsbank und erkennt eingegangene Retouren und ordnet sie den ausgegangenen Überweisungen automatisch zu. Der Benutzer kann erkannten Retouren die von der Mindee API gelieferten Tracking-IDs zuweisen.
 
 ### pmd-report-sorter
 Ein spezialisiertes Tool zum Sortieren und Organisieren von PMD-Reports (Programming Mistake Detector). PMD ist ein etabliertes statisches Code-Analyse-Tool für Java und andere Programmiersprachen. Dieses Projekt analysiert die zyklomatische Komplexität jeder Methode im Code und speichert die Ergebnisse absteigend sortiert in einer .txt-Datei, die für Git-Repositories optimiert ist. Dies ermöglicht Entwicklern, die komplexesten Methoden zu identifizieren und gezielt zu refaktorisieren.
